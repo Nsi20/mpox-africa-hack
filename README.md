@@ -1,1 +1,0 @@
-# mpox-africa-hack
