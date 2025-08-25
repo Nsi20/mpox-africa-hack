@@ -1,0 +1,325 @@
+Country,Report_Date,Confirmed_Cases,Deaths,Vaccinations_Administered,Active_Surveillance_Sites,Suspected_Cases,Case_Fatality_Rate,Clade,Weekly_New_Cases,Vaccine_Dose_Allocated,Vaccine_Dose_Deployed,Vaccine_Coverage,Testing_Laboratories,Trained_CHWs,Deployed_CHWs,Surveillance_Note
+Burundi,2024-01-01,2980,147,2768,10,6496,0.0493,Clade I,860,3321,2768,5.54,5,2903,2466,Baseline month. Enhanced surveillance ongoing.
+Burundi,2024-02-01,3220,144,2952,34,8573,0.0447,Clade I,814,3542,3263,6.53,2,1604,1323,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-03-01,3210,129,2873,8,9263,0.0402,Clade I,857,3447,2873,5.75,6,3521,2614,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-04-01,3215,144,2688,11,8275,0.0448,Clade I,711,3225,2914,5.83,3,1676,1043,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-05-01,3135,141,2750,47,6681,0.045,Clade I,807,3300,2792,5.58,2,1550,1001,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-06-01,3125,132,2929,46,6404,0.0422,Clade I,794,3514,3068,6.14,5,3364,2865,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-07-01,3055,129,2803,42,7015,0.0422,Clade I,849,3363,2803,5.61,6,1999,1649,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-08-01,3160,126,2927,37,6816,0.0399,Clade I,910,3512,2927,5.85,2,1500,1288,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-09-01,2925,147,2869,39,7111,0.0503,Clade I,722,3442,3189,6.38,6,2142,1663,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-10-01,3050,138,2865,20,8941,0.0452,Clade I,945,3438,2865,5.73,6,3080,2735,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-11-01,2970,123,2854,27,6007,0.0414,Clade I,521,3424,2854,5.71,3,1780,1255,Stable trend; focus on case finding and contact tracing.
+Burundi,2024-12-01,3095,141,2869,36,7970,0.0456,Clade I,830,3442,2869,5.74,5,3271,2002,Stable trend; focus on case finding and contact tracing.
+Cameroon,2024-01-01,278,6,3258,20,660,0.0216,Clade I,67,3909,3313,2.21,12,2790,2039,Baseline month. Enhanced surveillance ongoing.
+Cameroon,2024-02-01,392,16,2020,75,902,0.0408,Clade I,87,2424,2293,1.53,13,3404,2738,Increasing trend; surge teams deployed.
+Cameroon,2024-03-01,316,6,4411,31,666,0.019,Clade I,69,5293,4527,3.02,14,3058,2616,Declining trend; maintain surveillance intensity.
+Cameroon,2024-04-01,304,11,2591,59,789,0.0362,Clade I,69,3109,2734,1.82,11,3125,2319,Stable trend; focus on case finding and contact tracing.
+Cameroon,2024-05-01,303,14,4708,52,559,0.0462,Clade I,74,5649,4708,3.14,9,2389,1436,Stable trend; focus on case finding and contact tracing.
+Cameroon,2024-06-01,263,6,4690,25,599,0.0228,Clade I,50,5628,4690,3.13,10,1322,1106,Declining trend; maintain surveillance intensity.
+Cameroon,2024-07-01,183,2,2457,43,335,0.0109,Clade I,52,2948,2457,1.64,8,1378,920,Declining trend; maintain surveillance intensity.
+Cameroon,2024-08-01,279,11,3750,72,556,0.0394,Clade I,80,4500,3750,2.5,12,1201,904,Increasing trend; surge teams deployed.
+Cameroon,2024-09-01,205,4,1592,83,494,0.0195,Clade I,47,1910,1592,1.06,6,1453,1280,Declining trend; maintain surveillance intensity.
+Cameroon,2024-10-01,237,4,2309,37,547,0.0169,Clade I,65,2770,2309,1.54,6,1443,1239,Increasing trend; surge teams deployed.
+Cameroon,2024-11-01,109,3,688,12,197,0.0275,Clade I,25,825,688,0.46,6,1669,1060,Declining trend; maintain surveillance intensity.
+Cameroon,2024-12-01,282,9,3982,71,605,0.0319,Clade I,65,4778,3982,2.65,11,2645,2044,Increasing trend; surge teams deployed.
+Cameroon,2025-01-01,197,2,1927,30,448,0.0102,Clade I,37,2312,2015,1.34,6,859,658,Declining trend; maintain surveillance intensity.
+Cameroon,2025-02-01,88,2,3408,17,178,0.0227,Clade I,19,4089,3683,2.46,9,895,617,Declining trend; maintain surveillance intensity.
+Cameroon,2025-03-01,323,11,3386,57,791,0.0341,Clade I,98,4063,3386,2.26,7,1265,856,Increasing trend; surge teams deployed.
+Cameroon,2025-04-01,345,6,4473,67,635,0.0174,Clade I,82,5367,4490,2.99,7,2182,1899,Stable trend; focus on case finding and contact tracing.
+Cameroon,2025-05-01,429,9,2708,27,982,0.021,Clade I,88,3249,2708,1.81,8,2850,1925,Increasing trend; surge teams deployed.
+Cameroon,2025-06-01,179,5,4758,24,377,0.0279,Clade I,50,5709,4758,3.17,13,2424,1802,Declining trend; maintain surveillance intensity.
+Cameroon,2025-07-01,136,6,3497,50,245,0.0441,Clade I,40,4196,3497,2.33,14,3961,3536,Declining trend; maintain surveillance intensity.
+Cameroon,2025-08-01,404,14,1905,40,899,0.0347,Clade I,96,2286,2068,1.38,12,2246,1785,Increasing trend; surge teams deployed.
+DR Congo,2024-01-01,424,12,2517,96,1092,0.0283,Clade I,125,3020,2832,0.81,24,7239,4705,Baseline month. Enhanced surveillance ongoing.
+DR Congo,2024-02-01,234,5,4859,39,479,0.0214,Clade I,52,5830,4859,1.39,21,6303,3847,Declining trend; maintain surveillance intensity.
+DR Congo,2024-03-01,308,11,1839,24,695,0.0357,Clade I,77,2206,1839,0.53,14,3779,2808,Increasing trend; surge teams deployed.
+DR Congo,2024-04-01,427,15,2764,26,1029,0.0351,Clade I,103,3316,2764,0.79,22,6501,4672,Increasing trend; surge teams deployed.
+DR Congo,2024-05-01,226,7,3065,73,565,0.031,Clade I,58,3678,3310,0.95,13,2273,1509,Declining trend; maintain surveillance intensity.
+DR Congo,2024-06-01,446,17,916,17,938,0.0381,Clade I,111,1099,916,0.26,17,3270,2531,Increasing trend; surge teams deployed.
+DR Congo,2024-07-01,491,11,573,26,1127,0.0224,Clade I,129,1537,1107,0.32,19,1922,1372,Increasing trend; surge teams deployed.
+DR Congo,2024-08-01,109,4,4529,35,274,0.0367,Clade I,24,5434,4529,1.29,18,3124,2293,Declining trend; maintain surveillance intensity.
+DR Congo,2024-09-01,102,0,1714,35,249,0.0,Clade I,30,2056,1714,0.49,13,1187,1008,Stable trend; focus on case finding and contact tracing.
+DR Congo,2024-10-01,79,0,4645,43,205,0.0,Clade I,21,5574,4645,1.33,23,5891,4825,Declining trend; maintain surveillance intensity.
+DR Congo,2024-11-01,454,14,3605,44,1032,0.0308,Clade I,102,4326,3605,1.03,22,5859,4967,Increasing trend; surge teams deployed.
+DR Congo,2024-12-01,211,11,4477,15,461,0.0521,Clade I,60,5372,4477,1.28,22,3064,2020,Declining trend; maintain surveillance intensity.
+DR Congo,2025-01-01,402,11,1714,73,834,0.0274,Clade I,113,2056,1716,0.49,22,5019,4210,Increasing trend; surge teams deployed.
+DR Congo,2025-02-01,357,10,3253,14,838,0.028,Clade I,79,3903,3253,0.93,21,3240,2729,Declining trend; maintain surveillance intensity.
+DR Congo,2025-03-01,218,6,4263,45,401,0.0275,Clade I,42,5115,4854,1.39,24,4250,2704,Declining trend; maintain surveillance intensity.
+DR Congo,2025-04-01,218,5,1281,9,544,0.0229,Clade I,60,1537,1281,0.37,24,6395,4287,Stable trend; focus on case finding and contact tracing.
+DR Congo,2025-05-01,146,1,2213,63,273,0.0068,Clade I,41,2655,2213,0.63,11,2099,1412,Declining trend; maintain surveillance intensity.
+DR Congo,2025-06-01,173,2,4641,64,321,0.0116,Clade I,50,5569,5250,1.5,23,4744,3340,Increasing trend; surge teams deployed.
+DR Congo,2025-07-01,229,7,2265,47,431,0.0306,Clade I,60,2718,2265,0.65,24,4619,3403,Increasing trend; surge teams deployed.
+DR Congo,2025-08-01,468,16,1028,50,871,0.0342,Clade I,112,1233,1028,0.29,15,3575,2150,Increasing trend; surge teams deployed.
+Ethiopia,2024-01-01,155,7,4376,93,269,0.0452,Unknown,29,5251,4376,2.19,12,1489,1015,Baseline month. Enhanced surveillance ongoing.
+Ethiopia,2024-02-01,107,5,3093,7,217,0.0467,Unknown,29,3711,3093,1.55,14,4024,3062,Declining trend; maintain surveillance intensity.
+Ethiopia,2024-03-01,381,10,2011,89,738,0.0262,Unknown,99,2413,2011,1.01,19,1777,1301,Increasing trend; surge teams deployed.
+Ethiopia,2024-04-01,373,10,4738,30,713,0.0268,Unknown,72,5685,5012,2.51,12,2276,1688,Stable trend; focus on case finding and contact tracing.
+Ethiopia,2024-05-01,137,3,2926,39,279,0.0219,Unknown,26,3511,3100,1.55,17,1688,1305,Declining trend; maintain surveillance intensity.
+Ethiopia,2024-06-01,339,11,1004,87,570,0.0324,Unknown,81,1204,1083,0.54,19,3913,2549,Increasing trend; surge teams deployed.
+Ethiopia,2024-07-01,102,4,3191,79,207,0.0392,Unknown,24,3829,3191,1.6,15,4537,3613,Declining trend; maintain surveillance intensity.
+Ethiopia,2024-08-01,214,6,4640,77,428,0.028,Unknown,55,5568,4640,2.32,14,3811,2454,Increasing trend; surge teams deployed.
+Ethiopia,2024-09-01,47,1,2232,10,91,0.0213,Unknown,14,2678,2429,1.21,10,2180,1706,Declining trend; maintain surveillance intensity.
+Ethiopia,2024-10-01,155,4,1428,22,307,0.0258,Unknown,45,1713,1450,0.72,20,1931,1581,Increasing trend; surge teams deployed.
+Ethiopia,2024-11-01,277,6,1762,33,467,0.0217,Unknown,61,2114,1919,0.96,19,5173,3678,Increasing trend; surge teams deployed.
+Ethiopia,2024-12-01,400,11,1824,38,799,0.0275,Unknown,93,2188,1824,0.91,16,4906,3191,Increasing trend; surge teams deployed.
+Ethiopia,2025-01-01,385,16,1652,62,822,0.0416,Unknown,91,1982,1652,0.83,15,3521,2971,Stable trend; focus on case finding and contact tracing.
+Ethiopia,2025-02-01,146,3,1554,83,262,0.0205,Unknown,36,1864,1554,0.78,13,4001,2534,Declining trend; maintain surveillance intensity.
+Ethiopia,2025-03-01,443,13,4889,45,829,0.0293,Unknown,114,5866,4889,2.44,17,2816,2072,Increasing trend; surge teams deployed.
+Ethiopia,2025-04-01,296,10,811,100,606,0.0338,Unknown,77,973,811,0.41,19,2362,2107,Declining trend; maintain surveillance intensity.
+Ethiopia,2025-05-01,190,10,2564,74,398,0.0526,Unknown,50,3076,2564,1.28,17,4458,3486,Declining trend; maintain surveillance intensity.
+Ethiopia,2025-06-01,146,3,2396,88,246,0.0205,Unknown,34,2875,2396,1.2,20,5594,4417,Declining trend; maintain surveillance intensity.
+Ethiopia,2025-07-01,167,3,3442,60,301,0.018,Unknown,34,4130,3442,1.72,11,2293,1615,Increasing trend; surge teams deployed.
+Ethiopia,2025-08-01,185,6,513,52,377,0.0324,Unknown,38,708,553,0.28,12,2121,1287,Increasing trend; surge teams deployed.
+Ghana,2024-01-01,146,7,3950,93,298,0.0479,Clade II,39,4740,4234,3.53,14,3761,2501,Baseline month. Enhanced surveillance ongoing.
+Ghana,2024-02-01,133,3,3418,81,282,0.0226,Clade II,35,4101,3418,2.85,8,1805,1302,Stable trend; focus on case finding and contact tracing.
+Ghana,2024-03-01,201,1,4120,89,429,0.005,Clade II,53,4944,4120,3.43,6,761,549,Increasing trend; surge teams deployed.
+Ghana,2024-04-01,229,7,2180,98,415,0.0306,Clade II,49,2616,2180,1.82,9,851,593,Increasing trend; surge teams deployed.
+Ghana,2024-05-01,261,6,1513,8,442,0.023,Clade II,52,1815,1594,1.33,13,3058,2006,Increasing trend; surge teams deployed.
+Ghana,2024-06-01,288,15,3775,25,496,0.0521,Clade II,72,4530,3775,3.15,10,3062,2374,Increasing trend; surge teams deployed.
+Ghana,2024-07-01,362,13,567,18,696,0.0359,Clade II,101,680,567,0.47,9,1782,1157,Increasing trend; surge teams deployed.
+Ghana,2024-08-01,208,8,1785,31,341,0.0385,Clade II,58,2142,1785,1.49,8,1162,969,Declining trend; maintain surveillance intensity.
+Ghana,2024-09-01,450,16,4282,95,875,0.0356,Clade II,142,5138,4282,3.57,10,2781,2355,Increasing trend; surge teams deployed.
+Ghana,2024-10-01,82,3,2659,62,169,0.0366,Clade II,21,3190,2659,2.22,9,2780,2100,Declining trend; maintain surveillance intensity.
+Ghana,2024-11-01,284,7,4056,17,555,0.0246,Clade II,65,4867,4570,3.81,7,1864,1452,Increasing trend; surge teams deployed.
+Ghana,2024-12-01,254,14,3784,72,538,0.0551,Clade II,52,4540,4184,3.49,12,1759,1101,Declining trend; maintain surveillance intensity.
+Ghana,2025-01-01,421,12,2533,59,690,0.0285,Clade II,112,3039,2659,2.22,11,2940,2295,Increasing trend; surge teams deployed.
+Ghana,2025-02-01,439,17,1532,7,963,0.0387,Clade II,99,1838,1532,1.28,14,1722,1237,Stable trend; focus on case finding and contact tracing.
+Ghana,2025-03-01,246,5,4602,87,497,0.0203,Clade II,60,5522,4602,3.83,12,1871,1536,Declining trend; maintain surveillance intensity.
+Ghana,2025-04-01,197,3,4339,76,407,0.0152,Clade II,54,5206,4339,3.62,9,1729,1103,Declining trend; maintain surveillance intensity.
+Ghana,2025-05-01,393,11,3141,46,736,0.028,Clade II,96,3769,3176,2.65,7,2153,1768,Increasing trend; surge teams deployed.
+Ghana,2025-06-01,112,2,4182,83,227,0.0179,Clade II,26,5018,4417,3.68,8,2466,2219,Declining trend; maintain surveillance intensity.
+Ghana,2025-07-01,112,5,3842,30,190,0.0446,Clade II,25,4610,4070,3.39,12,3322,2095,Stable trend; focus on case finding and contact tracing.
+Ghana,2025-08-01,342,11,1964,6,627,0.0322,Clade II,94,2356,1968,1.64,9,2669,2027,Increasing trend; surge teams deployed.
+Guinea,2024-01-01,351,8,3105,54,1035,0.0228,Clade II,83,3726,3105,3.88,4,1350,1036,Baseline month. Enhanced surveillance ongoing.
+Guinea,2024-02-01,57,3,575,76,144,0.0526,Clade II,14,690,586,0.73,5,1343,1126,Declining trend; maintain surveillance intensity.
+Guinea,2024-03-01,269,6,1379,54,797,0.0223,Clade II,62,1654,1379,1.72,7,1540,1140,Increasing trend; surge teams deployed.
+Guinea,2024-04-01,87,2,3292,21,259,0.023,Clade II,19,3950,3292,4.12,8,1162,995,Declining trend; maintain surveillance intensity.
+Guinea,2024-05-01,47,1,4045,62,101,0.0213,Clade II,11,4854,4045,5.06,3,744,560,Declining trend; maintain surveillance intensity.
+Guinea,2024-06-01,290,5,1546,44,722,0.0172,Clade II,70,1855,1546,1.93,5,1388,1078,Increasing trend; surge teams deployed.
+Guinea,2024-07-01,135,2,534,32,376,0.0148,Clade II,28,670,621,0.78,6,1587,964,Declining trend; maintain surveillance intensity.
+Guinea,2024-08-01,445,14,3878,18,952,0.0315,Clade II,106,4653,3878,4.85,6,2005,1466,Increasing trend; surge teams deployed.
+Guinea,2024-09-01,155,3,563,66,322,0.0194,Clade II,39,675,563,0.7,3,356,241,Declining trend; maintain surveillance intensity.
+Guinea,2024-10-01,110,6,3229,70,221,0.0545,Clade II,30,3874,3229,4.04,3,925,637,Declining trend; maintain surveillance intensity.
+Guinea,2024-11-01,217,9,3617,59,470,0.0415,Clade II,50,4340,3775,4.72,5,506,387,Increasing trend; surge teams deployed.
+Guinea,2024-12-01,251,6,4800,22,671,0.0239,Clade II,61,5760,4800,6.0,4,1006,771,Increasing trend; surge teams deployed.
+Guinea,2025-01-01,352,11,4091,19,990,0.0312,Clade II,97,4909,4091,5.11,3,738,548,Increasing trend; surge teams deployed.
+Guinea,2025-02-01,372,7,2515,93,915,0.0188,Clade II,80,3018,2515,3.14,7,2386,1642,Stable trend; focus on case finding and contact tracing.
+Guinea,2025-03-01,304,10,2578,95,673,0.0329,Clade II,100,3093,2578,3.22,4,1374,1135,Declining trend; maintain surveillance intensity.
+Guinea,2025-04-01,98,0,1104,42,207,0.0,Clade II,26,1324,1104,1.38,5,1420,907,Declining trend; maintain surveillance intensity.
+Guinea,2025-05-01,425,15,2278,75,876,0.0353,Clade II,107,2733,2278,2.85,7,1826,1114,Increasing trend; surge teams deployed.
+Guinea,2025-06-01,301,6,1887,51,737,0.0199,Clade II,68,2264,2047,2.56,8,1781,1389,Declining trend; maintain surveillance intensity.
+Guinea,2025-07-01,290,8,1722,87,694,0.0276,Clade II,65,2066,1722,2.15,5,750,512,Stable trend; focus on case finding and contact tracing.
+Guinea,2025-08-01,315,10,2721,16,714,0.0317,Clade II,97,3265,2721,3.4,5,1089,662,Stable trend; focus on case finding and contact tracing.
+Kenya,2024-01-01,221,5,4842,12,447,0.0226,Unknown,49,5810,4842,2.69,15,3099,2485,Baseline month. Enhanced surveillance ongoing.
+Kenya,2024-02-01,98,4,1175,11,180,0.0408,Unknown,29,1410,1175,0.65,15,2800,2358,Declining trend; maintain surveillance intensity.
+Kenya,2024-03-01,471,14,1140,14,983,0.0297,Unknown,102,1368,1140,0.63,16,2933,1862,Increasing trend; surge teams deployed.
+Kenya,2024-04-01,455,14,3883,9,789,0.0308,Unknown,111,4659,3883,2.16,18,4747,3611,Stable trend; focus on case finding and contact tracing.
+Kenya,2024-05-01,434,15,2091,16,901,0.0346,Unknown,92,2509,2091,1.16,15,3556,2285,Stable trend; focus on case finding and contact tracing.
+Kenya,2024-06-01,256,9,1734,57,423,0.0352,Unknown,65,2080,1734,0.96,14,2697,2088,Declining trend; maintain surveillance intensity.
+Kenya,2024-07-01,78,5,2090,69,158,0.0641,Unknown,20,2508,2090,1.16,15,2349,2007,Declining trend; maintain surveillance intensity.
+Kenya,2024-08-01,187,8,1507,80,352,0.0428,Unknown,49,1808,1507,0.84,15,3708,3256,Increasing trend; surge teams deployed.
+Kenya,2024-09-01,423,9,981,59,813,0.0213,Unknown,110,1177,981,0.55,10,1928,1431,Increasing trend; surge teams deployed.
+Kenya,2024-10-01,407,10,2111,8,821,0.0246,Unknown,101,2533,2246,1.25,20,4629,3569,Stable trend; focus on case finding and contact tracing.
+Kenya,2024-11-01,106,3,3172,27,225,0.0283,Unknown,29,3806,3172,1.76,18,4883,3343,Declining trend; maintain surveillance intensity.
+Kenya,2024-12-01,499,12,3417,7,1041,0.024,Unknown,120,4100,3417,1.9,16,5320,4734,Increasing trend; surge teams deployed.
+Kenya,2025-01-01,67,2,3320,82,127,0.0299,Unknown,18,3984,3320,1.84,11,2133,1688,Declining trend; maintain surveillance intensity.
+Kenya,2025-02-01,473,16,4341,37,821,0.0338,Unknown,120,5209,4341,2.41,18,5152,4337,Increasing trend; surge teams deployed.
+Kenya,2025-03-01,77,2,781,44,133,0.026,Unknown,17,937,781,0.43,11,3351,2184,Declining trend; maintain surveillance intensity.
+Kenya,2025-04-01,149,3,1961,98,322,0.0201,Unknown,30,2353,2182,1.21,14,1540,1075,Increasing trend; surge teams deployed.
+Kenya,2025-05-01,127,6,4431,37,266,0.0472,Unknown,37,5317,4786,2.66,13,2722,2351,Declining trend; maintain surveillance intensity.
+Kenya,2025-06-01,160,2,3105,17,313,0.0125,Unknown,39,3726,3105,1.73,15,1392,928,Increasing trend; surge teams deployed.
+Kenya,2025-07-01,399,11,817,24,804,0.0276,Unknown,93,980,817,0.45,20,2151,1883,Increasing trend; surge teams deployed.
+Kenya,2025-08-01,454,14,1405,76,837,0.0308,Unknown,117,1686,1405,0.78,15,1543,1184,Increasing trend; surge teams deployed.
+Liberia,2024-01-01,73,1,3665,76,160,0.0137,Clade II,13,4398,3665,6.11,6,1087,950,Baseline month. Enhanced surveillance ongoing.
+Liberia,2024-02-01,184,7,724,5,396,0.038,Clade II,51,868,724,1.21,7,1041,809,Increasing trend; surge teams deployed.
+Liberia,2024-03-01,303,16,647,97,614,0.0528,Clade II,66,776,667,1.11,3,1033,667,Increasing trend; surge teams deployed.
+Liberia,2024-04-01,200,7,3438,42,459,0.035,Clade II,52,4125,3438,5.73,3,635,460,Declining trend; maintain surveillance intensity.
+Liberia,2024-05-01,470,12,4010,78,986,0.0255,Clade II,130,4812,4010,6.68,5,1049,870,Increasing trend; surge teams deployed.
+Liberia,2024-06-01,82,1,2398,13,173,0.0122,Clade II,21,2877,2398,4.0,7,1902,1209,Declining trend; maintain surveillance intensity.
+Liberia,2024-07-01,242,8,2774,21,663,0.0331,Clade II,65,3328,2774,4.62,5,1252,936,Increasing trend; surge teams deployed.
+Liberia,2024-08-01,393,13,4146,83,975,0.0331,Clade II,92,4975,4146,6.91,5,693,460,Increasing trend; surge teams deployed.
+Liberia,2024-09-01,262,12,3511,28,604,0.0458,Clade II,49,4213,3511,5.85,7,2123,1624,Declining trend; maintain surveillance intensity.
+Liberia,2024-10-01,317,10,3264,83,794,0.0315,Clade II,99,3916,3264,5.44,6,2036,1223,Increasing trend; surge teams deployed.
+Liberia,2024-11-01,255,2,3164,9,566,0.0078,Clade II,61,3796,3164,5.27,5,767,499,Declining trend; maintain surveillance intensity.
+Liberia,2024-12-01,478,19,1847,39,1230,0.0397,Clade II,107,2216,1847,3.08,5,1014,740,Increasing trend; surge teams deployed.
+Liberia,2025-01-01,329,12,3005,93,791,0.0365,Clade II,83,3606,3265,5.44,3,667,484,Declining trend; maintain surveillance intensity.
+Liberia,2025-02-01,127,7,780,81,329,0.0551,Clade II,24,936,780,1.3,4,557,397,Declining trend; maintain surveillance intensity.
+Liberia,2025-03-01,194,3,1415,100,566,0.0155,Clade II,45,1698,1415,2.36,6,1025,649,Increasing trend; surge teams deployed.
+Liberia,2025-04-01,232,9,578,81,554,0.0388,Clade II,52,693,578,0.96,6,766,577,Increasing trend; surge teams deployed.
+Liberia,2025-05-01,87,0,4757,95,238,0.0,Clade II,24,5708,4757,7.93,7,1478,1237,Declining trend; maintain surveillance intensity.
+Liberia,2025-06-01,487,17,1190,55,1146,0.0349,Clade II,113,1428,1195,1.99,7,2402,1949,Increasing trend; surge teams deployed.
+Liberia,2025-07-01,211,12,4882,49,598,0.0569,Clade II,57,5858,4882,8.14,4,1214,980,Declining trend; maintain surveillance intensity.
+Liberia,2025-08-01,207,9,3190,12,525,0.0435,Clade II,47,3828,3550,5.92,8,1010,788,Stable trend; focus on case finding and contact tracing.
+Mozambique,2024-01-01,424,9,4936,61,786,0.0212,Unknown,105,5923,4936,4.49,6,1350,928,Baseline month. Enhanced surveillance ongoing.
+Mozambique,2024-02-01,447,13,4951,55,996,0.0291,Unknown,138,5941,4951,4.5,6,1184,924,Stable trend; focus on case finding and contact tracing.
+Mozambique,2024-03-01,327,11,1161,32,802,0.0336,Unknown,75,1393,1306,1.19,9,1500,1060,Declining trend; maintain surveillance intensity.
+Mozambique,2024-04-01,249,10,2748,85,466,0.0402,Unknown,80,3297,2748,2.5,5,1387,1109,Declining trend; maintain surveillance intensity.
+Mozambique,2024-05-01,374,10,2679,99,804,0.0267,Unknown,109,3214,2805,2.55,9,1949,1187,Increasing trend; surge teams deployed.
+Mozambique,2024-06-01,242,9,4499,34,580,0.0372,Unknown,57,5398,4499,4.09,6,1066,882,Declining trend; maintain surveillance intensity.
+Mozambique,2024-07-01,347,7,2500,94,884,0.0202,Unknown,71,3000,2500,2.27,9,1875,1457,Increasing trend; surge teams deployed.
+Mozambique,2024-08-01,401,7,727,75,943,0.0175,Unknown,114,872,727,0.66,8,1085,846,Increasing trend; surge teams deployed.
+Mozambique,2024-09-01,104,4,2395,94,253,0.0385,Unknown,29,2874,2419,2.2,10,1892,1557,Declining trend; maintain surveillance intensity.
+Mozambique,2024-10-01,471,17,1945,47,1178,0.0361,Unknown,105,2334,1945,1.77,10,2197,1384,Increasing trend; surge teams deployed.
+Mozambique,2024-11-01,471,17,4654,78,1021,0.0361,Unknown,125,5584,5047,4.59,5,1336,1129,Stable trend; focus on case finding and contact tracing.
+Mozambique,2024-12-01,445,17,2678,85,924,0.0382,Unknown,106,3213,3012,2.74,7,2254,1408,Stable trend; focus on case finding and contact tracing.
+Mozambique,2025-01-01,441,17,550,40,854,0.0385,Unknown,122,803,657,0.6,8,1287,878,Stable trend; focus on case finding and contact tracing.
+Mozambique,2025-02-01,176,5,2604,84,437,0.0284,Unknown,43,3124,2604,2.37,7,1496,1137,Declining trend; maintain surveillance intensity.
+Mozambique,2025-03-01,389,10,2018,93,976,0.0257,Unknown,102,2421,2029,1.84,7,1848,1233,Increasing trend; surge teams deployed.
+Mozambique,2025-04-01,383,13,2279,23,909,0.0339,Unknown,95,2734,2493,2.27,8,2504,2004,Stable trend; focus on case finding and contact tracing.
+Mozambique,2025-05-01,377,8,3914,88,897,0.0212,Unknown,94,4696,4295,3.9,9,2570,1568,Stable trend; focus on case finding and contact tracing.
+Mozambique,2025-06-01,100,2,2741,40,192,0.02,Unknown,26,3289,2741,2.49,8,1710,1462,Declining trend; maintain surveillance intensity.
+Mozambique,2025-07-01,242,7,2199,40,461,0.0289,Unknown,59,2638,2500,2.27,8,2062,1326,Increasing trend; surge teams deployed.
+Mozambique,2025-08-01,207,7,2978,29,430,0.0338,Unknown,52,3573,2978,2.71,6,1430,1180,Declining trend; maintain surveillance intensity.
+Nigeria,2024-01-01,393,12,1312,49,660,0.0305,Clade II,91,1574,1312,0.44,16,2735,2187,Baseline month. Enhanced surveillance ongoing.
+Nigeria,2024-02-01,213,7,4384,91,426,0.0329,Clade II,44,5260,4384,1.46,34,10708,8135,Declining trend; maintain surveillance intensity.
+Nigeria,2024-03-01,185,3,2128,10,396,0.0162,Clade II,45,2553,2128,0.71,21,3390,2598,Declining trend; maintain surveillance intensity.
+Nigeria,2024-04-01,72,3,2547,72,140,0.0417,Clade II,18,3056,2547,0.85,29,5512,4730,Declining trend; maintain surveillance intensity.
+Nigeria,2024-05-01,57,4,3590,31,117,0.0702,Clade II,14,4308,3590,1.2,25,6232,5595,Declining trend; maintain surveillance intensity.
+Nigeria,2024-06-01,270,7,2215,56,447,0.0259,Clade II,60,2658,2397,0.8,28,5597,4643,Increasing trend; surge teams deployed.
+Nigeria,2024-07-01,177,7,3482,21,313,0.0395,Clade II,44,4178,3496,1.17,27,6783,5987,Declining trend; maintain surveillance intensity.
+Nigeria,2024-08-01,129,6,3209,66,250,0.0465,Clade II,35,3850,3217,1.07,27,3019,2597,Declining trend; maintain surveillance intensity.
+Nigeria,2024-09-01,506,12,2290,87,928,0.0237,Clade II,142,2748,2290,0.76,35,11505,10264,Increasing trend; surge teams deployed.
+Nigeria,2024-10-01,210,4,2750,80,380,0.019,Clade II,69,3300,2750,0.92,16,4564,3839,Declining trend; maintain surveillance intensity.
+Nigeria,2024-11-01,90,3,3802,13,190,0.0333,Clade II,21,4562,3938,1.31,32,2875,2502,Declining trend; maintain surveillance intensity.
+Nigeria,2024-12-01,70,1,4533,73,147,0.0143,Clade II,16,5439,4533,1.51,16,1523,1008,Declining trend; maintain surveillance intensity.
+Nigeria,2025-01-01,278,10,1723,85,607,0.036,Clade II,54,2067,1860,0.62,27,6269,3797,Increasing trend; surge teams deployed.
+Nigeria,2025-02-01,178,4,1323,57,385,0.0225,Clade II,39,1587,1323,0.44,27,4749,3802,Declining trend; maintain surveillance intensity.
+Nigeria,2025-03-01,320,12,2500,88,597,0.0375,Clade II,67,3000,2500,0.83,33,4042,3458,Increasing trend; surge teams deployed.
+Nigeria,2025-04-01,114,1,4886,31,246,0.0088,Clade II,33,5863,5509,1.84,31,8390,5957,Declining trend; maintain surveillance intensity.
+Nigeria,2025-05-01,61,1,2509,59,114,0.0164,Clade II,15,3010,2509,0.84,20,2222,1632,Declining trend; maintain surveillance intensity.
+Nigeria,2025-06-01,255,5,4413,25,457,0.0196,Clade II,60,5295,4413,1.47,25,2305,1694,Increasing trend; surge teams deployed.
+Nigeria,2025-07-01,97,2,2571,11,179,0.0206,Clade II,20,3085,2571,0.86,20,2493,1518,Declining trend; maintain surveillance intensity.
+Nigeria,2025-08-01,437,14,3802,19,792,0.032,Clade II,119,4562,4251,1.42,21,3037,2066,Increasing trend; surge teams deployed.
+Sierra Leone,2024-01-01,2535,117,2331,36,5808,0.0462,Clade II,557,2797,2331,3.88,7,2739,1657,Baseline month. Enhanced surveillance ongoing.
+Sierra Leone,2024-02-01,2430,117,2338,44,6879,0.0481,Clade II,580,2805,2338,3.9,4,2420,1961,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-03-01,2460,102,2377,26,6762,0.0415,Clade II,597,2852,2377,3.96,7,2956,1996,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-04-01,2520,111,2145,27,5063,0.044,Clade II,510,2574,2224,3.71,6,2053,1659,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-05-01,2445,105,2267,35,6917,0.0429,Clade II,623,2720,2336,3.89,7,2775,2423,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-06-01,2545,102,2337,48,6372,0.0401,Clade II,726,2804,2337,3.9,6,1576,1094,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-07-01,2440,114,2112,35,6679,0.0467,Clade II,514,2534,2112,3.52,3,1749,1200,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-08-01,2710,117,2303,36,7238,0.0432,Clade II,706,2763,2359,3.93,3,1653,1121,Increasing trend; surge teams deployed.
+Sierra Leone,2024-09-01,2620,117,2499,30,7132,0.0447,Clade II,697,2998,2499,4.17,8,3399,2925,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-10-01,2610,90,2216,21,5267,0.0345,Clade II,544,2659,2384,3.97,5,2835,2052,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-11-01,2495,99,2329,42,7115,0.0397,Clade II,742,2794,2329,3.88,8,2484,1823,Stable trend; focus on case finding and contact tracing.
+Sierra Leone,2024-12-01,2415,111,2171,21,6085,0.046,Clade II,556,2605,2173,3.62,6,2618,1658,Stable trend; focus on case finding and contact tracing.
+South Africa,2024-01-01,345,8,4022,93,617,0.0232,Unknown,68,4826,4251,1.7,27,3261,2757,Baseline month. Enhanced surveillance ongoing.
+South Africa,2024-02-01,534,18,1893,69,974,0.0337,Unknown,133,2271,1893,0.76,24,7570,5744,Increasing trend; surge teams deployed.
+South Africa,2024-03-01,386,12,1574,27,728,0.0311,Unknown,87,1888,1574,0.63,30,7478,6449,Declining trend; maintain surveillance intensity.
+South Africa,2024-04-01,261,3,709,31,445,0.0115,Unknown,68,850,739,0.3,22,3142,2600,Declining trend; maintain surveillance intensity.
+South Africa,2024-05-01,118,1,2667,39,198,0.0085,Unknown,29,3200,2667,1.07,33,10056,8799,Declining trend; maintain surveillance intensity.
+South Africa,2024-06-01,483,13,4183,96,1003,0.0269,Unknown,110,5019,4183,1.67,38,6562,3974,Increasing trend; surge teams deployed.
+South Africa,2024-07-01,504,14,4606,85,1101,0.0278,Unknown,139,5527,4833,1.93,28,8437,5723,Stable trend; focus on case finding and contact tracing.
+South Africa,2024-08-01,373,10,4480,47,739,0.0268,Unknown,88,5376,4480,1.79,39,5671,5051,Declining trend; maintain surveillance intensity.
+South Africa,2024-09-01,407,9,2830,16,861,0.0221,Unknown,106,3396,2830,1.13,37,9172,8095,Stable trend; focus on case finding and contact tracing.
+South Africa,2024-10-01,206,5,658,39,435,0.0243,Unknown,41,789,658,0.26,36,7454,5903,Declining trend; maintain surveillance intensity.
+South Africa,2024-11-01,296,11,2000,23,521,0.0372,Unknown,71,2400,2000,0.8,30,8410,6239,Increasing trend; surge teams deployed.
+South Africa,2024-12-01,377,12,3365,60,804,0.0318,Unknown,80,4038,3626,1.45,38,8832,7608,Increasing trend; surge teams deployed.
+South Africa,2025-01-01,349,8,2113,64,738,0.0229,Unknown,90,2535,2326,0.93,31,4244,3703,Stable trend; focus on case finding and contact tracing.
+South Africa,2025-02-01,189,4,609,57,343,0.0212,Unknown,51,730,609,0.24,34,4948,3894,Declining trend; maintain surveillance intensity.
+South Africa,2025-03-01,413,17,1827,72,724,0.0412,Unknown,102,2192,2055,0.82,34,5046,3360,Increasing trend; surge teams deployed.
+South Africa,2025-04-01,380,7,4453,51,687,0.0184,Unknown,96,5343,4941,1.98,22,5993,5029,Stable trend; focus on case finding and contact tracing.
+South Africa,2025-05-01,401,11,2631,61,674,0.0274,Unknown,85,3157,2940,1.18,31,9288,7643,Stable trend; focus on case finding and contact tracing.
+South Africa,2025-06-01,379,9,540,41,811,0.0237,Unknown,65,749,621,0.25,28,5983,5240,Stable trend; focus on case finding and contact tracing.
+South Africa,2025-07-01,486,9,4676,88,791,0.0185,Unknown,110,5611,4770,1.91,32,6128,5472,Increasing trend; surge teams deployed.
+South Africa,2025-08-01,471,12,2341,22,770,0.0255,Unknown,107,2809,2341,0.94,25,8127,5938,Stable trend; focus on case finding and contact tracing.
+Sudan,2024-01-01,47,1,3018,97,120,0.0213,Clade I,11,3621,3417,2.63,9,871,735,Baseline month. Enhanced surveillance ongoing.
+Sudan,2024-02-01,144,7,4342,29,341,0.0486,Clade I,35,5210,4465,3.43,7,2077,1658,Increasing trend; surge teams deployed.
+Sudan,2024-03-01,235,8,1198,96,543,0.034,Clade I,49,1437,1198,0.92,7,1454,1249,Increasing trend; surge teams deployed.
+Sudan,2024-04-01,316,7,1633,86,641,0.0222,Clade I,82,1959,1840,1.42,6,1500,1196,Increasing trend; surge teams deployed.
+Sudan,2024-05-01,194,5,1727,62,422,0.0258,Clade I,43,2072,1727,1.33,6,1237,880,Declining trend; maintain surveillance intensity.
+Sudan,2024-06-01,342,11,4648,77,775,0.0322,Clade I,103,5577,5014,3.86,8,1379,1011,Increasing trend; surge teams deployed.
+Sudan,2024-07-01,385,7,4185,85,966,0.0182,Clade I,94,5022,4185,3.22,9,1612,1228,Increasing trend; surge teams deployed.
+Sudan,2024-08-01,349,11,1470,86,760,0.0315,Clade I,90,1764,1627,1.25,6,1380,966,Stable trend; focus on case finding and contact tracing.
+Sudan,2024-09-01,481,5,2434,71,1239,0.0104,Clade I,137,2920,2434,1.87,7,1576,1317,Increasing trend; surge teams deployed.
+Sudan,2024-10-01,351,8,2739,39,863,0.0228,Clade I,80,3286,2875,2.21,10,1445,1254,Declining trend; maintain surveillance intensity.
+Sudan,2024-11-01,464,9,552,93,1057,0.0194,Clade I,102,662,552,0.42,9,1824,1533,Increasing trend; surge teams deployed.
+Sudan,2024-12-01,377,10,2306,61,700,0.0265,Clade I,90,2767,2346,1.8,10,2736,2218,Declining trend; maintain surveillance intensity.
+Sudan,2025-01-01,362,10,3778,34,697,0.0276,Clade I,105,4533,3778,2.91,6,1657,1129,Stable trend; focus on case finding and contact tracing.
+Sudan,2025-02-01,326,10,4075,39,837,0.0307,Clade I,82,4890,4075,3.13,12,2736,2174,Stable trend; focus on case finding and contact tracing.
+Sudan,2025-03-01,103,5,1426,23,240,0.0485,Clade I,27,1711,1426,1.1,10,2404,2078,Declining trend; maintain surveillance intensity.
+Sudan,2025-04-01,351,14,785,22,830,0.0399,Clade I,84,942,822,0.63,7,1315,1174,Increasing trend; surge teams deployed.
+Sudan,2025-05-01,486,15,821,79,1200,0.0309,Clade I,121,985,821,0.63,8,1938,1516,Increasing trend; surge teams deployed.
+Sudan,2025-06-01,231,11,1641,88,486,0.0476,Clade I,67,1969,1641,1.26,12,3654,2379,Declining trend; maintain surveillance intensity.
+Sudan,2025-07-01,215,4,4777,48,391,0.0186,Clade I,62,5732,4777,3.67,11,2233,1889,Stable trend; focus on case finding and contact tracing.
+Sudan,2025-08-01,120,3,2564,34,231,0.025,Clade I,31,3076,2564,1.97,10,1656,1409,Declining trend; maintain surveillance intensity.
+Tanzania,2024-01-01,152,2,3572,50,376,0.0132,Unknown,31,4286,3572,2.55,10,2904,2393,Baseline month. Enhanced surveillance ongoing.
+Tanzania,2024-02-01,126,7,3002,33,325,0.0556,Unknown,34,3602,3391,2.42,10,3247,2162,Declining trend; maintain surveillance intensity.
+Tanzania,2024-03-01,409,16,4458,89,943,0.0391,Unknown,106,5349,4604,3.29,8,841,625,Increasing trend; surge teams deployed.
+Tanzania,2024-04-01,279,9,1213,9,631,0.0323,Unknown,67,1455,1213,0.87,6,1194,840,Declining trend; maintain surveillance intensity.
+Tanzania,2024-05-01,99,5,569,34,199,0.0505,Unknown,22,682,642,0.46,7,1758,1567,Declining trend; maintain surveillance intensity.
+Tanzania,2024-06-01,258,8,4101,27,492,0.031,Unknown,68,4921,4101,2.93,7,1247,794,Increasing trend; surge teams deployed.
+Tanzania,2024-07-01,83,4,4528,69,198,0.0482,Unknown,21,5433,4941,3.53,12,3269,2900,Declining trend; maintain surveillance intensity.
+Tanzania,2024-08-01,218,6,1822,32,399,0.0275,Unknown,52,2186,1822,1.3,8,902,604,Increasing trend; surge teams deployed.
+Tanzania,2024-09-01,329,10,3241,35,607,0.0304,Unknown,60,3889,3241,2.31,6,1897,1242,Increasing trend; surge teams deployed.
+Tanzania,2024-10-01,447,13,1425,19,900,0.0291,Unknown,126,1710,1425,1.02,12,2642,1813,Increasing trend; surge teams deployed.
+Tanzania,2024-11-01,226,6,593,63,459,0.0265,Unknown,42,711,593,0.42,12,1662,1428,Declining trend; maintain surveillance intensity.
+Tanzania,2024-12-01,223,6,4266,53,465,0.0269,Unknown,60,5119,4266,3.05,9,1346,1136,Stable trend; focus on case finding and contact tracing.
+Tanzania,2025-01-01,478,18,1004,99,1143,0.0377,Unknown,121,1204,1004,0.72,8,1835,1159,Increasing trend; surge teams deployed.
+Tanzania,2025-02-01,458,15,1240,7,825,0.0328,Unknown,109,1488,1240,0.89,6,2034,1290,Stable trend; focus on case finding and contact tracing.
+Tanzania,2025-03-01,114,4,3855,45,250,0.0351,Unknown,26,4626,3855,2.75,12,2728,2316,Declining trend; maintain surveillance intensity.
+Tanzania,2025-04-01,86,2,4533,53,209,0.0233,Unknown,20,5439,4533,3.24,12,3198,2205,Declining trend; maintain surveillance intensity.
+Tanzania,2025-05-01,298,15,3085,71,617,0.0503,Unknown,73,3702,3385,2.42,9,2437,2154,Increasing trend; surge teams deployed.
+Tanzania,2025-06-01,328,9,781,20,615,0.0274,Unknown,67,937,781,0.56,6,1167,928,Increasing trend; surge teams deployed.
+Tanzania,2025-07-01,519,17,4117,100,1288,0.0328,Unknown,130,4940,4470,3.19,12,3397,2936,Increasing trend; surge teams deployed.
+Tanzania,2025-08-01,364,17,4791,96,725,0.0467,Unknown,94,5749,4791,3.42,6,1947,1636,Declining trend; maintain surveillance intensity.
+Togo,2024-01-01,321,8,2876,82,898,0.0249,Clade II,68,3451,2886,4.12,3,475,346,Baseline month. Enhanced surveillance ongoing.
+Togo,2024-02-01,221,6,1191,92,601,0.0271,Clade II,55,1429,1191,1.7,3,1018,858,Declining trend; maintain surveillance intensity.
+Togo,2024-03-01,435,12,4087,94,1162,0.0276,Clade II,103,4904,4087,5.84,7,935,658,Increasing trend; surge teams deployed.
+Togo,2024-04-01,305,7,2981,74,612,0.023,Clade II,74,3577,2991,4.27,5,1581,958,Declining trend; maintain surveillance intensity.
+Togo,2024-05-01,476,14,1350,87,1081,0.0294,Clade II,111,1620,1350,1.93,7,1047,694,Increasing trend; surge teams deployed.
+Togo,2024-06-01,279,8,1064,63,639,0.0287,Clade II,90,1276,1064,1.52,7,1240,991,Declining trend; maintain surveillance intensity.
+Togo,2024-07-01,372,10,554,19,1060,0.0269,Clade II,97,714,677,0.97,3,723,632,Increasing trend; surge teams deployed.
+Togo,2024-08-01,111,2,4146,41,246,0.018,Clade II,24,4975,4146,5.92,7,1484,1252,Declining trend; maintain surveillance intensity.
+Togo,2024-09-01,120,7,4175,43,278,0.0583,Clade II,27,5010,4175,5.96,7,1262,848,Stable trend; focus on case finding and contact tracing.
+Togo,2024-10-01,229,8,4721,43,467,0.0349,Clade II,70,5665,4721,6.74,5,802,514,Increasing trend; surge teams deployed.
+Togo,2024-11-01,294,13,3985,43,871,0.0442,Clade II,83,4782,3985,5.69,6,1476,1005,Increasing trend; surge teams deployed.
+Togo,2024-12-01,164,1,3051,60,491,0.0061,Clade II,38,3661,3051,4.36,3,1010,606,Declining trend; maintain surveillance intensity.
+Togo,2025-01-01,150,6,2091,91,311,0.04,Clade II,39,2509,2180,3.11,3,1013,758,Stable trend; focus on case finding and contact tracing.
+Togo,2025-02-01,324,12,4956,68,943,0.037,Clade II,80,5947,4956,7.08,3,577,412,Increasing trend; surge teams deployed.
+Togo,2025-03-01,272,10,1796,91,783,0.0368,Clade II,60,2155,1819,2.6,3,582,361,Declining trend; maintain surveillance intensity.
+Togo,2025-04-01,230,3,2844,35,632,0.013,Clade II,52,3412,2844,4.06,3,779,518,Declining trend; maintain surveillance intensity.
+Togo,2025-05-01,230,12,4882,63,516,0.0522,Clade II,55,5858,5233,7.48,5,711,625,Stable trend; focus on case finding and contact tracing.
+Togo,2025-06-01,267,11,2230,50,552,0.0412,Clade II,79,2676,2451,3.5,4,877,771,Increasing trend; surge teams deployed.
+Togo,2025-07-01,403,15,3572,53,1090,0.0372,Clade II,101,4286,3572,5.1,7,1573,1012,Increasing trend; surge teams deployed.
+Togo,2025-08-01,177,6,2955,50,456,0.0339,Clade II,44,3546,2955,4.22,7,1245,1069,Declining trend; maintain surveillance intensity.
+Uganda,2024-01-01,1975,39,3463,98,3649,0.0197,Clade I,572,4155,3534,2.36,8,2725,1974,Baseline month. Enhanced surveillance ongoing.
+Uganda,2024-02-01,1605,36,4912,43,3005,0.0224,Clade I,320,5894,4912,3.27,12,3744,3332,Declining trend; maintain surveillance intensity.
+Uganda,2024-03-01,1550,21,2355,15,2509,0.0135,Clade I,447,2826,2355,1.57,8,2919,2265,Stable trend; focus on case finding and contact tracing.
+Uganda,2024-04-01,855,12,1925,32,1581,0.014,Clade I,187,2310,1925,1.28,12,3635,2925,Declining trend; maintain surveillance intensity.
+Uganda,2024-05-01,800,12,2226,20,1501,0.015,Clade I,192,2671,2226,1.48,9,2187,1361,Stable trend; focus on case finding and contact tracing.
+Uganda,2024-06-01,1450,18,1294,66,2959,0.0124,Clade I,385,1552,1294,0.86,9,3328,2990,Increasing trend; surge teams deployed.
+Uganda,2024-07-01,1905,39,3337,79,4036,0.0205,Clade I,545,4004,3337,2.22,14,2509,1859,Increasing trend; surge teams deployed.
+Uganda,2024-08-01,2190,36,4005,7,3722,0.0164,Clade I,540,4806,4040,2.69,15,2162,1631,Increasing trend; surge teams deployed.
+Uganda,2024-09-01,1665,18,4372,91,3521,0.0108,Clade I,366,5246,4372,2.91,11,3716,3032,Declining trend; maintain surveillance intensity.
+Uganda,2024-10-01,1770,39,3208,13,3719,0.022,Clade I,420,3849,3576,2.38,15,3542,2581,Stable trend; focus on case finding and contact tracing.
+Uganda,2024-11-01,2810,39,1061,59,5940,0.0139,Clade I,743,2557,2252,1.5,10,2692,1687,Increasing trend; surge teams deployed.
+Uganda,2024-12-01,1230,24,2218,53,2238,0.0195,Clade I,311,2661,2494,1.66,9,2285,1664,Declining trend; maintain surveillance intensity.
+Uganda,2025-01-01,1325,27,4370,44,2480,0.0204,Clade I,341,5244,4370,2.91,14,3628,2713,Stable trend; focus on case finding and contact tracing.
+Uganda,2025-02-01,690,12,3346,87,1305,0.0174,Clade I,184,4015,3413,2.28,16,2629,1602,Declining trend; maintain surveillance intensity.
+Uganda,2025-03-01,1050,15,4186,51,1937,0.0143,Clade I,249,5023,4186,2.79,9,2045,1689,Increasing trend; surge teams deployed.
+Uganda,2025-04-01,2295,48,4208,7,4767,0.0209,Clade I,548,5049,4208,2.81,15,5581,4349,Increasing trend; surge teams deployed.
+Uganda,2025-05-01,570,9,2975,40,937,0.0158,Clade I,157,3570,3261,2.17,13,4154,3034,Declining trend; maintain surveillance intensity.
+Uganda,2025-06-01,855,12,3751,83,1371,0.014,Clade I,200,4501,3751,2.5,15,2316,1491,Increasing trend; surge teams deployed.
+Uganda,2025-07-01,2325,57,956,38,3723,0.0245,Clade I,641,2515,2322,1.55,10,3534,3109,Increasing trend; surge teams deployed.
+Uganda,2025-08-01,2245,54,1660,72,3746,0.0241,Clade I,665,2475,1796,1.2,14,4767,3867,Stable trend; focus on case finding and contact tracing.
+Zambia,2024-01-01,390,13,4057,50,994,0.0333,Unknown,122,4868,4057,4.06,7,957,585,Baseline month. Enhanced surveillance ongoing.
+Zambia,2024-02-01,395,13,1683,36,962,0.0329,Unknown,105,2019,1683,1.68,9,927,768,Stable trend; focus on case finding and contact tracing.
+Zambia,2024-03-01,324,12,2272,62,746,0.037,Unknown,72,2726,2325,2.33,5,1425,902,Declining trend; maintain surveillance intensity.
+Zambia,2024-04-01,383,18,3643,66,974,0.047,Unknown,113,4371,3643,3.64,8,1004,826,Increasing trend; surge teams deployed.
+Zambia,2024-05-01,305,8,1027,85,689,0.0262,Unknown,78,1232,1027,1.03,9,1167,913,Declining trend; maintain surveillance intensity.
+Zambia,2024-06-01,398,12,776,47,960,0.0302,Unknown,116,931,792,0.79,9,1991,1327,Increasing trend; surge teams deployed.
+Zambia,2024-07-01,123,3,2332,96,256,0.0244,Unknown,31,2798,2332,2.33,9,800,570,Declining trend; maintain surveillance intensity.
+Zambia,2024-08-01,353,4,3403,46,845,0.0113,Unknown,87,4083,3606,3.61,6,677,455,Increasing trend; surge teams deployed.
+Zambia,2024-09-01,304,11,4335,74,619,0.0362,Unknown,66,5202,4877,4.88,8,1712,1095,Declining trend; maintain surveillance intensity.
+Zambia,2024-10-01,324,13,4501,64,609,0.0401,Unknown,88,5401,4501,4.5,6,914,598,Stable trend; focus on case finding and contact tracing.
+Zambia,2024-11-01,230,8,3130,14,499,0.0348,Unknown,53,3756,3130,3.13,5,1606,1374,Declining trend; maintain surveillance intensity.
+Zambia,2024-12-01,290,16,3275,83,713,0.0552,Unknown,79,3930,3275,3.27,8,2527,1650,Increasing trend; surge teams deployed.
+Zambia,2025-01-01,470,11,2248,15,1200,0.0234,Unknown,105,2697,2248,2.25,5,771,639,Increasing trend; surge teams deployed.
+Zambia,2025-02-01,446,17,747,38,960,0.0381,Unknown,116,896,758,0.76,7,1637,1250,Stable trend; focus on case finding and contact tracing.
+Zambia,2025-03-01,125,8,1603,62,280,0.064,Unknown,25,1923,1717,1.72,5,616,428,Declining trend; maintain surveillance intensity.
+Zambia,2025-04-01,60,2,3327,51,155,0.0333,Unknown,17,3992,3327,3.33,8,1354,820,Declining trend; maintain surveillance intensity.
+Zambia,2025-05-01,438,15,3921,89,949,0.0342,Unknown,126,4705,3921,3.92,5,1197,835,Increasing trend; surge teams deployed.
+Zambia,2025-06-01,206,6,4696,19,513,0.0291,Unknown,49,5635,5328,5.33,10,1358,939,Declining trend; maintain surveillance intensity.
+Zambia,2025-07-01,189,6,1549,41,429,0.0317,Unknown,50,1858,1549,1.55,5,1257,1017,Stable trend; focus on case finding and contact tracing.
+Zambia,2025-08-01,246,5,2017,38,496,0.0203,Unknown,70,2420,2017,2.02,6,1404,1250,Increasing trend; surge teams deployed.
